@@ -1,16 +1,13 @@
-## Hi there 👋
+## 自己紹介
 
-<!--
-**Tabibitotw/Tabibitotw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😴 只要我沒有睡著，那就是醒著的
 
-Here are some ideas to get you started:
+🤑 錢沒有不見，只是變成喜歡的樣子了
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😋 好吃就是高興
+
+🤐 社恐，請勿拍打餵食
+
+## 請注意
+
+🤔 沒事，感謝你的注意
